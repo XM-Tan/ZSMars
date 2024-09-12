@@ -1,0 +1,10 @@
+0 Martian Soil
+1 Sands
+2 Gravel
+3 Light Toned Veins
+4 Float Rocks
+5 Igneous Rocks
+6 Sedimentary Rocks
+7 Tracks
+8 Rover Components
+9 Unkown
