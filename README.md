@@ -2,7 +2,8 @@
 
 To facilitate the zero-shot classification task focusing on Mars scenes, we reclassified the image categories within the collected public datasets. By reviewing the two versions of the Mars surface image datasets, MSL (v1) and MSL (v2), we identified overlapping categories and inconsistencies in size and color across images. To resolve these issues, we standardized the size and color of the images across the datasets and redefined the image categories specific to the MSC. We then formed an annotation team to conduct visual image annotation on the revised ZSMSC dataset, now named ZSMars.
 
-## [Google Drive Download Link](https://drive.google.com/drive/folders/1H0rA5CFzubRzLufm9y0YpSDPYMv63r5k?usp=drive_link)
+# Complete dataset
+[Google Drive Download Link](https://drive.google.com/drive/folders/1H0rA5CFzubRzLufm9y0YpSDPYMv63r5k?usp=drive_link)
 
 # Citation
 If it is helpful for your work, please cite this paper:
